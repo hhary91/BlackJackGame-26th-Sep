@@ -1,0 +1,12 @@
+C:\Users\dss3\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\dss3\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\dss3\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\dss3\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csprojResolveAssemblyReference.cache
+C:\Users\dss3\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\dss3\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\jolokl\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\jolokl\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\jolokl\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\jolokl\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\jolokl\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\jolokl\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csprojResolveAssemblyReference.cache
