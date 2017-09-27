@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleapp", "consoleapp\consoleapp.csproj", "{20454DEE-8A00-406C-AD27-458B610D06B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unittstproj", "Unittstproj\Unittstproj.csproj", "{EFCCF52A-A987-4287-B0B7-B06A21A05BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20454DEE-8A00-406C-AD27-458B610D06B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20454DEE-8A00-406C-AD27-458B610D06B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20454DEE-8A00-406C-AD27-458B610D06B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20454DEE-8A00-406C-AD27-458B610D06B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCCF52A-A987-4287-B0B7-B06A21A05BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCCF52A-A987-4287-B0B7-B06A21A05BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCCF52A-A987-4287-B0B7-B06A21A05BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCCF52A-A987-4287-B0B7-B06A21A05BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

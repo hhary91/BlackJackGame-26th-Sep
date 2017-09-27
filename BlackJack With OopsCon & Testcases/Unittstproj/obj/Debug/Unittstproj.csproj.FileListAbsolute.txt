@@ -1,0 +1,15 @@
+D:\consoleapp\Unittstproj\obj\Debug\Unittstproj.csprojResolveAssemblyReference.cache
+D:\consoleapp\Unittstproj\bin\Debug\Unittstproj.dll
+D:\consoleapp\Unittstproj\bin\Debug\Unittstproj.pdb
+D:\consoleapp\Unittstproj\bin\Debug\consoleapp.exe
+D:\consoleapp\Unittstproj\bin\Debug\consoleapp.pdb
+D:\consoleapp\Unittstproj\obj\Debug\Unittstproj.dll
+D:\consoleapp\Unittstproj\obj\Debug\Unittstproj.pdb
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\bin\Debug\Unittstproj.dll
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\bin\Debug\Unittstproj.pdb
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\bin\Debug\consoleapp.exe
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\bin\Debug\consoleapp.pdb
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\obj\Debug\Unittstproj.csprojResolveAssemblyReference.cache
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\obj\Debug\Unittstproj.dll
+C:\Users\jolokl\Desktop\Sundar-master\Console app with testcases\Unittstproj\obj\Debug\Unittstproj.pdb
